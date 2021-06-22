@@ -4,3 +4,5 @@ Course work on modeling subject environments and designing databases. "City tran
 Курсовая работа по моделированию предметных сред и проектированию баз данных. «Городская транспортная сеть»
 
 Used programs: MySQL Server, MySQL Workbench, ErWin Data Modeler, Silverrun.
+
+2020
